@@ -96,9 +96,6 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="FileFolderOperation.h" />
     <ClInclude Include="FileFolderOperationDlg.h" />
     <ClInclude Include="Resource.h" />
